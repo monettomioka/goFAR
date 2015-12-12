@@ -10,7 +10,7 @@ public class exitOnEscape : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		If(Input.GetKeyDown(KeyCode.Escape))
+		if(Input.GetKeyDown(KeyCode.Escape))
 			Application.Quit();
 	}
 }

@@ -45,12 +45,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\exitOnEscape.cs" />
      <Compile Include="Assets\scripts\Character\Item.cs" />
      <Compile Include="Assets\scripts\Character\Miles.cs" />
      <Compile Include="Assets\scripts\Effects\ShineSpin.cs" />
      <Compile Include="Assets\scripts\Levels\BoundingBox.cs" />
      <Compile Include="Assets\scripts\Levels\LevelController.cs" />
+     <Compile Include="Assets\scripts\Levels\exitOnEscape.cs" />
      <Compile Include="Assets\scripts\UI\MainMenu.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
